@@ -1,0 +1,12 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ESP32-C3-SuperMini") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/ESP32-C3-SuperMini.pretty") (options "") (descr ""))
+	(lib (name "CONV_HLK-5M05") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/CONV_HLK-5M05.pretty") (options "") (descr ""))
+	(lib (name "DIP762W48P254L889H508Q6") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/DIP762W48P254L889H508Q6.pretty") (options "") (descr ""))
+	(lib (name "G5LE-14 DC5") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/G5LE-14 DC5.pretty") (options "") (descr ""))
+	(lib (name "G5LE_1A4_DC5") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/G5LE_1A4_DC5.pretty") (options "") (descr ""))
+	(lib (name "BTA08_600CWRG") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/BTA08_600CWRG.pretty") (options "") (descr ""))
+	(lib (name "B72214S0151K101") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/B72214S0151K101.pretty") (options "") (descr ""))
+	(lib (name "BC33716BU") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/BC33716BU.pretty") (options "") (descr ""))
+	(lib (name "RC212-0.5-10M") (type "KiCad") (uri "${KIPRJMOD}/hardware/lib/footprints/RC212-0.5-10M.pretty") (options "") (descr ""))
+)
